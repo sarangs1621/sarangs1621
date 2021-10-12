@@ -8,7 +8,7 @@
 - 📫 For contacting me send an [Email](mailto:sarangsnair1621@gmail.com).
 - 💻 code and enjoy!
 
-<p align='center'>
+<p align='left'>
 <a href="https://www.instagram.com/_.sarang._s/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>
 
