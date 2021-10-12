@@ -1,7 +1,7 @@
 <p align="center"><a href="https://github.com/sarangs1621"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 ## Hello guys, this is Sarang S Nair! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<a href="https://octodex.github.com/catstello/"><img src="https://octodex.github.com/images/catstello.png" width="500"  align="right"></a>
+<a href="https://octodex.github.com/catstello/"><img src="https://octodex.github.com/images/catstello.png" width="350"  align="right"></a>
 
 - 🏫 I'm currently studying at Amrita School of Engineering, Amritapuri
 - 👨🏻‍💻 I'm enhanceing my programming skills and learning new things.
