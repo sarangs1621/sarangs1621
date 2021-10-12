@@ -6,7 +6,7 @@
 - 🏫 I'm currently studying at Amrita School of Engineering, Amritapuri
 - 👨🏻‍💻 I'm enhanceing my programming skills and learning new things.
 - 📫 For contacting me send an [Email](mailto:sarangsnair1621@gmail.com).
-- 💻 code and enjoy!
+- 💻 Code and enjoy!
 
 <p align='center'>
 <a href="https://www.instagram.com/_.sarang._s/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
