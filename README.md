@@ -4,7 +4,7 @@
 <a href="https://octodex.github.com/catstello/"><img src="https://octodex.github.com/images/catstello.png" width="200"  align="right"></a>
 
 - 🏫 I'm currently studying at Amrita School of Engineering, Amritapuri
-- 👨🏻‍💻 I'm currently trying to enhance my programming skills and learn new things.
+- 👨🏻‍💻 I'm enhanceing my programming skills and learning new things.
 - 📫 For contacting me send an [Email](mailto:sarangsnair1621@gmail.com).
 - 💻 code and enjoy!
 
