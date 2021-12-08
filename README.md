@@ -13,6 +13,7 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
+<br />
 
 - 🏫 I'm currently studying at Amrita School of Engineering, Amritapuri
 - 👨🏻‍💻 I'm enhanceing my programming skills and learning new things.
