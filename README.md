@@ -7,7 +7,10 @@
   <img align="left" alt="Sarang's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/pr3b5e88tgvhwoar51d8s05me">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Sarang's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+<a href="https://www.instagram.com/_.sarang._s/">
+  <img align="left" alt="Sarang's Instagram" width="22px" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg" />
 </a>
 
 <br />
