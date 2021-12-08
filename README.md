@@ -22,8 +22,6 @@
 - 📫 For contacting me send an [Email](mailto:sarangsnair1621@gmail.com).
 - 💻 Code and enjoy!
 
-<p align='center'>
-<a href="https://www.instagram.com/_.sarang._s/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-</p>
-
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
 <p align="center"><a href="https://github.com/sarangs1621"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
