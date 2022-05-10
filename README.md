@@ -10,7 +10,7 @@
   <img align="left" alt="Sarang's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>-->
 <a href="https://www.instagram.com/itz.sarangs/">
-  <img align="left" alt="Sarang's Instagram" width="22px" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg" />
+  <img align="left" alt="Sarang's Instagram" width="22px" src="https://www.transparentpng.com/details/logo-instagram-clipart-transparent_13552.html" />
 </a>
 
 <br />
