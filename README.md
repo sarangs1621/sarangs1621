@@ -18,7 +18,7 @@
 ## Hello guys, this is Sarang S Nair! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <a href="https://octodex.github.com/catstello/"><img src="https://octodex.github.com/images/catstello.png" width="350"  align="right"></a>
 - 🏫 I'm currently studying at Amrita School of Engineering, Amritapuri
-- 👨🏻‍💻 I'm enhanceing my programming skills and learning new things.
+- 👨🏻‍💻 I'm enhancing my programming skills and learning new things.
 - 📫 For contacting me send an [Email](mailto:sarangsnair1621@gmail.com).
 - 💻 Code and enjoy!
 
