@@ -1,7 +1,7 @@
 <p align="center"><a href="https://github.com/sarangs1621"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 <a href="https://twitter.com/SarangSnair3">
-  <img align="left" alt="Sarang S Nair | Twitter" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg](https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.jpg)" />
+  <img align="left" alt="Sarang S Nair | Twitter" width="22px" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.jpg" />
 </a>
 <a href="http://www.linkedin.com/in/sarang-s-nair-307b94221">
   <img align="left" alt="Sarang's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
