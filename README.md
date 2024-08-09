@@ -4,11 +4,11 @@
   <img align="left" alt="Sarang S Nair | Twitter" width="22px" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.jpg" />
 </a>
 <a href="http://www.linkedin.com/in/sarang-s-nair-307b94221">
-  <img align="left" alt="Sarang's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Sarang's LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true)" />
 </a>
-<a href="https://open.spotify.com/user/pr3b5e88tgvhwoar51d8s05me">
+<!-- <a href="https://open.spotify.com/user/pr3b5e88tgvhwoar51d8s05me">
   <img align="left" alt="Sarang's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+</a> -->
 <a href="https://www.instagram.com/itz.sarangs/">
   <img align="left" alt="Sarang's Instagram" width="22px" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg" />
 </a>
