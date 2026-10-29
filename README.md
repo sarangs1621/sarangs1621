@@ -43,7 +43,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://drive.google.com/file/d/11G7XzRuXJKlsO-MG6f8_5fqJZBkyDVTJ/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1xUJtuirDyuJrUmuN4MCP2PiEUYckSgEc/view?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white">
 </a>
 
