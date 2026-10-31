@@ -55,8 +55,6 @@ I’m interested in building software, understanding how systems work, and figur
 
 With a background in Computer Science, I enjoy working across the stack — from designing APIs and structuring databases to building user-facing applications. I’m drawn to the engineering decisions behind a product just as much as the features themselves.
 
-Much of my hands-on experience comes from **[GameGround](https://gameground.net/)**, a sports marketplace I’ve been building from the ground up. Working on a real product has given me the opportunity to explore the challenges of software beyond the code itself: connecting different parts of a system, making technical trade-offs, and building something designed for actual users.
-
 My interests lie in **backend engineering, full-stack development, and AI**. I enjoy exploring new technologies, working through unfamiliar problems, and turning ideas into reliable, useful software.
 
 I’m always looking for opportunities to take on challenging engineering problems, contribute to meaningful products, and become a better engineer along the way.
